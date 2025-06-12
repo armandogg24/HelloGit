@@ -18,3 +18,5 @@ if __name__ == "__main__":
     user = input("Usuario: ")
     pwd = input("Contraseña: ")
     interactive_link_login(user, pwd)
+
+    print("Prueba de autenticación InterActiveLink completada.")
